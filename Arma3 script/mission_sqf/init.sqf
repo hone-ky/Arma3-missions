@@ -1,0 +1,1 @@
+player addAction ["<t color='#ff0000'>ミッション生成</t>", "spawn_mission.sqf"];

@@ -1,0 +1,12 @@
+class CfgNotifications {
+    class RoleChanged {
+        title = "%1"; // 1番目のパラメータがタイトル
+        description = "%2"; // 2番目のパラメータが説明
+        iconPicture = "\a3\ui_f\data\igui\cfg\simpleTasks\types\documents_ca.paa";
+        iconText = "";
+        color[] = {1,1,1,1};
+        duration = 5;
+        priority = 0;
+        difficulty[] = {};
+    };
+};
